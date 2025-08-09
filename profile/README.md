@@ -10,14 +10,6 @@
 - **Modern UI:** Fast, responsive interface powered by Next.js.
 - **Extensible:** Built with modularity in mind for easy customization and expansion.
 
-## Technology Stack
-
-- **Node.js** — Backend runtime
-- **Next.js** — Server-side rendering and API routes
-- **TypeScript** — Type safety and maintainability
-- **Yup** — Schema validation
-- **Service Worker** — Offline support
-
 ## Getting Started
 
 1. **Download the latest Cireon server release** from [the releases page](https://github.com/CireonApp/server/releases).
